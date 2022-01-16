@@ -1,2 +1,8 @@
 # capture_crop_genshin_artifact
 แคปจอ และครอปภาพอาติแฟคในเกม Genshin Impact แบบง่ายๆ
+# วิธีใช้
+pip install PyAutoGUI
+pip install keyboard
+
+python capture_genshin.py
+กด 'x' เพื่อจับภาพ
